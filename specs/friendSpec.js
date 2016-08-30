@@ -3,6 +3,7 @@
  */
 var friendPage = require('../pages/friendPage');
 var chance = require('chance').Chance();
+require('../a11y-clicker');
 
 describe ('angular app', function() {
 
